@@ -1,0 +1,14 @@
+<resources>
+    <string name="facebook_app_id">329515177418708</string>
+    <string name="app_name">PokiPoki</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login">Login</string>
+    <string name="no_account">No account yet? Create one</string>
+    <string name="username_hint">Username</string>
+    <string name="password_confirm_hint">Confirm password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="auth_start">Authenticating...</string>
+    <string name="sets_title">Sets</string>
+    <string name="events_title">Events</string>
+</resources>
